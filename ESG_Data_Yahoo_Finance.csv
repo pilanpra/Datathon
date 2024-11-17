@@ -1,0 +1,289 @@
+,esgScores,symbol
+adult,False,AAPL
+alcoholic,False,AAPL
+animalTesting,False,AAPL
+catholic,,AAPL
+coal,False,AAPL
+controversialWeapons,False,AAPL
+environmentPercentile,,AAPL
+environmentScore,0.55,AAPL
+esgPerformance,LAG_PERF,AAPL
+furLeather,False,AAPL
+gambling,False,AAPL
+gmo,False,AAPL
+governancePercentile,,AAPL
+governanceScore,8.72,AAPL
+highestControversy,3.0,AAPL
+maxAge,86400,AAPL
+militaryContract,False,AAPL
+nuclear,False,AAPL
+palmOil,False,AAPL
+peerCount,106,AAPL
+peerEnvironmentPerformance,"{'min': 0.17, 'avg': 2.572307692307692, 'max': 10.47}",AAPL
+peerEsgScorePerformance,"{'min': 4.46, 'avg': 15.118584905660377, 'max': 27.77}",AAPL
+peerGovernancePerformance,"{'min': 1.43, 'avg': 4.303333333333335, 'max': 8.72}",AAPL
+peerGroup,Technology Hardware,AAPL
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.8018867924528302, 'max': 3.0}",AAPL
+peerSocialPerformance,"{'min': 1.4, 'avg': 5.2794871794871785, 'max': 11.29}",AAPL
+percentile,,AAPL
+pesticides,False,AAPL
+ratingMonth,11,AAPL
+ratingYear,2024,AAPL
+relatedControversy,['Customer Incidents;Social Supply Chain Incidents;Business Ethics Incidents'],AAPL
+smallArms,False,AAPL
+socialPercentile,,AAPL
+socialScore,7.52,AAPL
+tobacco,False,AAPL
+totalEsg,16.79,AAPL
+adult,False,MSFT
+alcoholic,False,MSFT
+animalTesting,False,MSFT
+catholic,,MSFT
+coal,False,MSFT
+controversialWeapons,False,MSFT
+environmentPercentile,,MSFT
+environmentScore,1.65,MSFT
+esgPerformance,LAG_PERF,MSFT
+furLeather,False,MSFT
+gambling,False,MSFT
+gmo,False,MSFT
+governancePercentile,,MSFT
+governanceScore,4.96,MSFT
+highestControversy,3.0,MSFT
+maxAge,86400,MSFT
+militaryContract,False,MSFT
+nuclear,False,MSFT
+palmOil,False,MSFT
+peerCount,325,MSFT
+peerEnvironmentPerformance,"{'min': 0.28, 'avg': 2.969932885906042, 'max': 6.25}",MSFT
+peerEsgScorePerformance,"{'min': 11.43, 'avg': 21.051784615384616, 'max': 32.73}",MSFT
+peerGovernancePerformance,"{'min': 2.27, 'avg': 5.809865771812083, 'max': 11.74}",MSFT
+peerGroup,Software & Services,MSFT
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.8092307692307692, 'max': 4.0}",MSFT
+peerSocialPerformance,"{'min': 4.89, 'avg': 9.81664429530202, 'max': 21.64}",MSFT
+percentile,,MSFT
+pesticides,False,MSFT
+ratingMonth,11,MSFT
+ratingYear,2024,MSFT
+relatedControversy,['Customer Incidents'],MSFT
+smallArms,False,MSFT
+socialPercentile,,MSFT
+socialScore,7.62,MSFT
+tobacco,False,MSFT
+totalEsg,14.23,MSFT
+adult,False,NVDA
+alcoholic,False,NVDA
+animalTesting,False,NVDA
+catholic,,NVDA
+coal,False,NVDA
+controversialWeapons,False,NVDA
+environmentPercentile,,NVDA
+environmentScore,2.45,NVDA
+esgPerformance,LAG_PERF,NVDA
+furLeather,False,NVDA
+gambling,False,NVDA
+gmo,False,NVDA
+governancePercentile,,NVDA
+governanceScore,6.0,NVDA
+highestControversy,2.0,NVDA
+maxAge,86400,NVDA
+militaryContract,False,NVDA
+nuclear,False,NVDA
+palmOil,False,NVDA
+peerCount,69,NVDA
+peerEnvironmentPerformance,"{'min': 2.45, 'avg': 7.294074074074073, 'max': 17.41}",NVDA
+peerEsgScorePerformance,"{'min': 11.56, 'avg': 22.519710144927533, 'max': 43.28}",NVDA
+peerGovernancePerformance,"{'min': 3.4, 'avg': 5.006296296296296, 'max': 7.82}",NVDA
+peerGroup,Semiconductors,NVDA
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.6666666666666666, 'max': 3.0}",NVDA
+peerSocialPerformance,"{'min': 3.09, 'avg': 5.787407407407407, 'max': 8.42}",NVDA
+percentile,,NVDA
+pesticides,False,NVDA
+ratingMonth,11,NVDA
+ratingYear,2024,NVDA
+relatedControversy,['Customer Incidents'],NVDA
+smallArms,False,NVDA
+socialPercentile,,NVDA
+socialScore,4.45,NVDA
+tobacco,False,NVDA
+totalEsg,12.9,NVDA
+adult,False,AVGO
+alcoholic,False,AVGO
+animalTesting,False,AVGO
+catholic,,AVGO
+coal,False,AVGO
+controversialWeapons,False,AVGO
+environmentPercentile,,AVGO
+environmentScore,8.12,AVGO
+esgPerformance,LAG_PERF,AVGO
+furLeather,False,AVGO
+gambling,False,AVGO
+gmo,False,AVGO
+governancePercentile,,AVGO
+governanceScore,4.21,AVGO
+highestControversy,2.0,AVGO
+maxAge,86400,AVGO
+militaryContract,False,AVGO
+nuclear,False,AVGO
+palmOil,False,AVGO
+peerCount,69,AVGO
+peerEnvironmentPerformance,"{'min': 2.45, 'avg': 7.294074074074073, 'max': 17.41}",AVGO
+peerEsgScorePerformance,"{'min': 11.56, 'avg': 22.519710144927533, 'max': 43.28}",AVGO
+peerGovernancePerformance,"{'min': 3.4, 'avg': 5.006296296296296, 'max': 7.82}",AVGO
+peerGroup,Semiconductors,AVGO
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.6666666666666666, 'max': 3.0}",AVGO
+peerSocialPerformance,"{'min': 3.09, 'avg': 5.787407407407407, 'max': 8.42}",AVGO
+percentile,,AVGO
+pesticides,False,AVGO
+ratingMonth,11,AVGO
+ratingYear,2024,AVGO
+relatedControversy,['Customer Incidents;Governance Incidents'],AVGO
+smallArms,False,AVGO
+socialPercentile,,AVGO
+socialScore,6.86,AVGO
+tobacco,False,AVGO
+totalEsg,19.2,AVGO
+adult,False,ORCL
+alcoholic,False,ORCL
+animalTesting,False,ORCL
+catholic,,ORCL
+coal,False,ORCL
+controversialWeapons,False,ORCL
+environmentPercentile,,ORCL
+environmentScore,1.58,ORCL
+esgPerformance,LAG_PERF,ORCL
+furLeather,False,ORCL
+gambling,False,ORCL
+gmo,False,ORCL
+governancePercentile,,ORCL
+governanceScore,6.21,ORCL
+highestControversy,2.0,ORCL
+maxAge,86400,ORCL
+militaryContract,False,ORCL
+nuclear,False,ORCL
+palmOil,False,ORCL
+peerCount,325,ORCL
+peerEnvironmentPerformance,"{'min': 0.28, 'avg': 2.969932885906042, 'max': 6.25}",ORCL
+peerEsgScorePerformance,"{'min': 11.43, 'avg': 21.051784615384616, 'max': 32.73}",ORCL
+peerGovernancePerformance,"{'min': 2.27, 'avg': 5.809865771812083, 'max': 11.74}",ORCL
+peerGroup,Software & Services,ORCL
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.8092307692307692, 'max': 4.0}",ORCL
+peerSocialPerformance,"{'min': 4.89, 'avg': 9.81664429530202, 'max': 21.64}",ORCL
+percentile,,ORCL
+pesticides,False,ORCL
+ratingMonth,11,ORCL
+ratingYear,2024,ORCL
+relatedControversy,['Customer Incidents;Business Ethics Incidents;Governance Incidents;Employee Incidents'],ORCL
+smallArms,False,ORCL
+socialPercentile,,ORCL
+socialScore,6.75,ORCL
+tobacco,False,ORCL
+totalEsg,14.53,ORCL
+adult,False,CRM
+alcoholic,False,CRM
+animalTesting,False,CRM
+catholic,,CRM
+coal,False,CRM
+controversialWeapons,False,CRM
+environmentPercentile,,CRM
+environmentScore,2.05,CRM
+esgPerformance,LAG_PERF,CRM
+furLeather,False,CRM
+gambling,False,CRM
+gmo,False,CRM
+governancePercentile,,CRM
+governanceScore,4.78,CRM
+highestControversy,2.0,CRM
+maxAge,86400,CRM
+militaryContract,False,CRM
+nuclear,False,CRM
+palmOil,False,CRM
+peerCount,325,CRM
+peerEnvironmentPerformance,"{'min': 0.28, 'avg': 2.969932885906042, 'max': 6.25}",CRM
+peerEsgScorePerformance,"{'min': 11.43, 'avg': 21.051784615384616, 'max': 32.73}",CRM
+peerGovernancePerformance,"{'min': 2.27, 'avg': 5.809865771812083, 'max': 11.74}",CRM
+peerGroup,Software & Services,CRM
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.8092307692307692, 'max': 4.0}",CRM
+peerSocialPerformance,"{'min': 4.89, 'avg': 9.81664429530202, 'max': 21.64}",CRM
+percentile,,CRM
+pesticides,False,CRM
+ratingMonth,11,CRM
+ratingYear,2024,CRM
+relatedControversy,['Employee Incidents'],CRM
+smallArms,False,CRM
+socialPercentile,,CRM
+socialScore,8.15,CRM
+tobacco,False,CRM
+totalEsg,14.97,CRM
+adult,False,AMD
+alcoholic,False,AMD
+animalTesting,False,AMD
+catholic,,AMD
+coal,False,AMD
+controversialWeapons,False,AMD
+environmentPercentile,,AMD
+environmentScore,3.29,AMD
+esgPerformance,LAG_PERF,AMD
+furLeather,False,AMD
+gambling,False,AMD
+gmo,False,AMD
+governancePercentile,,AMD
+governanceScore,4.79,AMD
+highestControversy,1.0,AMD
+maxAge,86400,AMD
+militaryContract,False,AMD
+nuclear,False,AMD
+palmOil,False,AMD
+peerCount,69,AMD
+peerEnvironmentPerformance,"{'min': 2.45, 'avg': 7.294074074074073, 'max': 17.41}",AMD
+peerEsgScorePerformance,"{'min': 11.56, 'avg': 22.519710144927533, 'max': 43.28}",AMD
+peerGovernancePerformance,"{'min': 3.4, 'avg': 5.006296296296296, 'max': 7.82}",AMD
+peerGroup,Semiconductors,AMD
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.6666666666666666, 'max': 3.0}",AMD
+peerSocialPerformance,"{'min': 3.09, 'avg': 5.787407407407407, 'max': 8.42}",AMD
+percentile,,AMD
+pesticides,False,AMD
+ratingMonth,11,AMD
+ratingYear,2024,AMD
+relatedControversy,['Business Ethics Incidents;Customer Incidents;Society & Community Incidents'],AMD
+smallArms,False,AMD
+socialPercentile,,AMD
+socialScore,5.76,AMD
+tobacco,False,AMD
+totalEsg,13.83,AMD
+adult,False,ADBE
+alcoholic,False,ADBE
+animalTesting,False,ADBE
+catholic,,ADBE
+coal,False,ADBE
+controversialWeapons,False,ADBE
+environmentPercentile,,ADBE
+environmentScore,1.69,ADBE
+esgPerformance,LAG_PERF,ADBE
+furLeather,False,ADBE
+gambling,False,ADBE
+gmo,False,ADBE
+governancePercentile,,ADBE
+governanceScore,5.14,ADBE
+highestControversy,2.0,ADBE
+maxAge,86400,ADBE
+militaryContract,False,ADBE
+nuclear,False,ADBE
+palmOil,False,ADBE
+peerCount,325,ADBE
+peerEnvironmentPerformance,"{'min': 0.28, 'avg': 2.969932885906042, 'max': 6.25}",ADBE
+peerEsgScorePerformance,"{'min': 11.43, 'avg': 21.051784615384616, 'max': 32.73}",ADBE
+peerGovernancePerformance,"{'min': 2.27, 'avg': 5.809865771812083, 'max': 11.74}",ADBE
+peerGroup,Software & Services,ADBE
+peerHighestControversyPerformance,"{'min': 0.0, 'avg': 0.8092307692307692, 'max': 4.0}",ADBE
+peerSocialPerformance,"{'min': 4.89, 'avg': 9.81664429530202, 'max': 21.64}",ADBE
+percentile,,ADBE
+pesticides,False,ADBE
+ratingMonth,11,ADBE
+ratingYear,2024,ADBE
+relatedControversy,['Business Ethics Incidents;Customer Incidents'],ADBE
+smallArms,False,ADBE
+socialPercentile,,ADBE
+socialScore,7.23,ADBE
+tobacco,False,ADBE
+totalEsg,14.06,ADBE
